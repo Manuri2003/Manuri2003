@@ -57,9 +57,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat-square&logo=icloud&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ## 🚀 Featured projects
@@ -85,8 +83,7 @@ Explore the project and its implementation in the repository.
 ## 🤝 Connect with me
 
 - **GitHub:** [@Manuri2003](https://github.com/Manuri2003)
-- **LinkedIn:** `ADD_YOUR_LINKEDIN_PROFILE_URL`
-
+- **LinkedIn:** www.linkedin.com/in/manuri-pabara
 ---
 
 <p align="center">
